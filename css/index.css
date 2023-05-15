@@ -1,0 +1,42 @@
+.container-opciones{
+    display: inline-block; 
+    text-align: center;
+    padding: 20px;
+}
+
+
+img{
+    display: block;
+}
+
+.opciones{
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    text-align: center;
+}
+
+header {
+    background-image: url(https://img.freepik.com/vector-gratis/vector-fondo-estampado-medico-limpio_53876-161509.jpg?w=900&t=st=1683845265~exp=1683845865~hmac=a6901263d4f0c2cd6c45889488b52ca69056dfa35916384e75338deb56a84326);
+    color: #000000;
+    padding: 50px;
+
+}
+
+
+h1,
+h2 {
+    margin-top: 20px;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(210, 236, 243);
+}
+
+
+
+
+
+
+
